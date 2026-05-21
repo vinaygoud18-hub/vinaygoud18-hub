@@ -28,7 +28,7 @@
 ---
 
 ## 📊 GitHub Stats
-![Vinay's Stats](https://github-readme-stats.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=default&hide_border=true)
+![Vinay's Stats](https://github-readme-stats.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800)
 
 ---
 
