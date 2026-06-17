@@ -1,8 +1,6 @@
 # Hi, I'm Vinay Goud Vintapuram 👋
-
-🎓 3rd Year B.Tech CSE (Data Science) | MRCET, Hyderabad  
-💡 Data Science Intern @ Oasis Infobyte  
-🔭 Building ML projects with Python & Streamlit  
+🎓 3rd Year B.Tech CSE (Data Science) | MRCET, Hyderabad
+🔭 Building ML projects with Python & Streamlit
 📫 [LinkedIn](https://linkedin.com/in/vinaygoud-vintapuram)
 
 ---
@@ -17,20 +15,16 @@
 
 ---
 
-## 🚀 OIBSIP Internship Projects
+## 🚀 Projects
 
 | # | Project | Tech | Status |
 |---|---------|------|--------|
-| 1 | [Iris Flower Classification](https://github.com/vinaygoud18-hub/OIBSIP) | Python, Scikit-learn | ✅ Done |
-| 2 | [Unemployment Analysis](https://github.com/vinaygoud18-hub/OIBSIP) | Python, Plotly, Streamlit | ✅ Done |
-| 5 | [Sales Prediction](https://github.com/vinaygoud18-hub/OIBSIP) | Python, ML, Streamlit | ✅ Done |
+| 1 | [CineMatch — Movie Recommendation System](https://github.com/vinaygoud18-hub/movie-recommendation-system) | Python, Scikit-learn, Streamlit | ✅ Done |
 
 ---
 
 ## 📊 GitHub Stats
-
 ![Vinay's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=tokyonight&hide_border=true)
-
 ![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinaygoud18-hub&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
