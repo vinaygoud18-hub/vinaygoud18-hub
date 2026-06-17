@@ -24,8 +24,10 @@
 ---
 
 ## 📊 GitHub Stats
-![Vinay's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=tokyonight&hide_border=true)
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=vinaygoud18-hub&layout=compact&theme=tokyonight&hide_border=true)
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=tokyonight"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaygoud18-hub&layout=compact&theme=tokyonight"/>
 
 ---
 
