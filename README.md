@@ -23,6 +23,18 @@
 
 ---
 
+## 🏆 Certifications
+
+| Certification | Credential |
+|--------------|------------|
+| Google AI Essentials | [View](https://www.coursera.org/account/accomplishments/specialization/SY05TH95Y6WR) |
+| Certificate 2 | [View](LINK) |
+| Certificate 3 | [View](LINK) |
+| Certificate 4 | [View](LINK) |
+| Certificate 5 | [View](LINK) |
+
+---
+
 ## 📊 GitHub Stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=tokyonight"/>
