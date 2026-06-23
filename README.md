@@ -28,7 +28,7 @@
 | Certification | Credential |
 |--------------|------------|
 | Google AI Essentials | [View](https://www.coursera.org/account/accomplishments/specialization/SY05TH95Y6WR) |
-| Certificate 2 | [View](LINK) |
+| Data Science Essentials With Python | [View](https://www.credly.com/badges/4e4fac1a-7228-49db-b968-be41f95cde92/public_url) |
 | Certificate 3 | [View](LINK) |
 | Certificate 4 | [View](LINK) |
 | Certificate 5 | [View](LINK) |
