@@ -32,6 +32,7 @@
 | TATA GenAI Powered Data Analytics | Forage | 2026 | [View Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a0f0de453cdaa342f958aaf_1780213078226_completion_certificate.pdf) |
 | Deloitte Australia Data Analytics Job Simulation | Forage | 2026 | [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a0f0de453cdaa342f958aaf_1780503818848_completion_certificate.pdf) |
 | ChatGPT for Data Science and Data Analysis in Python | Udemy | 2026 | [View Certificate](https://www.udemy.com/certificate/UC-f8727d3d-3a44-4e9a-a119-e847eb6410d8/) |
+| Data Science & Analytics | HP LIFE | 2026 | [View Certificate](https://www.life-global.org/certificate/5956a4a8-89c8-4d34-bdb6-1461afed7f73) |
 
 ---
 
