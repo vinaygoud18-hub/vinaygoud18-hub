@@ -28,6 +28,7 @@
 | Certification | Organization | Year | Credential |
 |--------------|-------------|------|------------|
 | Google AI Essentials | Google & Coursera | 2026 | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/SY05TH95Y6WR) |
+| Google Prompting Essentials | Google & Coursera | 2026 | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/OV02L5331H9U) |
 | Data Science Essentials With Python | Cisco Networking Academy | 2026 | [View Certificate](https://www.credly.com/badges/4e4fac1a-7228-49db-b968-be41f95cde92/public_url) |
 | TATA GenAI Powered Data Analytics | Forage | 2026 | [View Certificate](https://www.theforage.com/completion-certificates/ifobHAoMjQs9s6bKS/gMTdCXwDdLYoXZ3wG_ifobHAoMjQs9s6bKS_6a0f0de453cdaa342f958aaf_1780213078226_completion_certificate.pdf) |
 | Deloitte Australia Data Analytics Job Simulation | Forage | 2026 | [View Certificate](https://www.theforage.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_6a0f0de453cdaa342f958aaf_1780503818848_completion_certificate.pdf) |
