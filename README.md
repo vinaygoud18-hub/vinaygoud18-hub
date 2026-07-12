@@ -20,7 +20,7 @@
 | # | Project | Tech | Status |
 |---|---------|------|--------|
 | 1 | [CineMatch — Movie Recommendation System](https://github.com/vinaygoud18-hub/movie-recommendation-system) | Python, Scikit-learn, Streamlit | ✅ Done |
-
+| 2 | [IPL Analytics Dashboard (2008-2026)](https://github.com/vinaygoud18-hub/ipl-analytics-dashboard) | Python, Plotly, Pandas, Streamlit | ✅ Done |
 ---
 
 ## 🏆 Certifications
