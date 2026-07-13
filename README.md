@@ -1,30 +1,39 @@
 # Hi, I'm Vinay Goud Vintapuram 👋
 🎓 3rd Year B.Tech CSE (Data Science) | MRCET, Hyderabad
-🔭 Building ML projects with Python & Streamlit
+🔭 Building Data Science & Analytics projects with Python, Streamlit & Power BI
+🌱 Currently exploring cloud-backed apps (Supabase) and automation (n8n)
+🎯 Open to Data Analytics / Data Science internship opportunities (Hyderabad & Remote)
 📫 [LinkedIn](https://linkedin.com/in/vinaygoud-vintapuram)
 
 ---
 
 ## 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=openjdk&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)
 
 ---
 
 ## 🚀 Projects
-
 | # | Project | Tech | Status |
 |---|---------|------|--------|
-| 1 | [CineMatch — Movie Recommendation System](https://github.com/vinaygoud18-hub/movie-recommendation-system) | Python, Scikit-learn, Streamlit | ✅ Done |
-| 2 | [IPL Analytics Dashboard (2008-2026)](https://github.com/vinaygoud18-hub/ipl-analytics-dashboard) | Python, Plotly, Pandas, Streamlit | ✅ Done |
+| 1 | [ExpenseFlow — Personal Finance Tracker](https://github.com/vinaygoud18-hub) | React, TypeScript, Tailwind CSS, Supabase | 🚧 In Progress |
+| 2 | [IPL Analytics Dashboard (2008–2026)](https://github.com/vinaygoud18-hub/ipl-analytics-dashboard) | Python, Plotly, Pandas, Streamlit, Power BI | ✅ Done |
+| 3 | [CineMatch — Movie Recommendation System](https://github.com/vinaygoud18-hub/movie-recommendation-system) | Python, Scikit-learn, Streamlit | ✅ Done |
+
 ---
 
 ## 🏆 Certifications
-
 | Certification | Organization | Year | Credential |
 |--------------|-------------|------|------------|
 | Google AI Essentials | Google & Coursera | 2026 | [View Certificate](https://www.coursera.org/account/accomplishments/specialization/SY05TH95Y6WR) |
@@ -38,9 +47,7 @@
 ---
 
 ## 📊 GitHub Stats
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vinaygoud18-hub&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vinaygoud18-hub&layout=compact&theme=tokyonight"/>
 
 ---
